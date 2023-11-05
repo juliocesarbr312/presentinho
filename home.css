@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background: url('6277661-estudio-fundo-vazio-parede-e-piso-textura-grunge-cimento-concreto-exibicao-cena-gratis-foto.jpg') no-repeat;
+    background-size: cover;
+background-position: center;
+}
